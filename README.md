@@ -1,6 +1,6 @@
-### Olá, um dia eu volto a usar o GitHub :) 👋
+### Olá, um dia eu coloco meu Github em ordem :) 👋
 
-<script src="https://tryhackme.com/badge/98147"></script>
+![Meu perfil no TryHackMe](https://tryhackme-badges.s3.amazonaws.com/XBaraoVermelhoX.png)
 
 <!--
 **aka-barao/aka-barao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
