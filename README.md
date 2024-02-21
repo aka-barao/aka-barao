@@ -1,6 +1,6 @@
-### Olá, um dia eu coloco meu Github em ordem :) 👋
+<h1 align="center">Olá, um dia eu coloco meu Github em ordem :) 👋</h1>
 
-![Meu perfil no TryHackMe](https://tryhackme-badges.s3.amazonaws.com/XBaraoVermelhoX.png)
+<p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/XBaraoVermelhoX.png" alt="TryHackMe"></p>
 
 <!--
 **aka-barao/aka-barao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
