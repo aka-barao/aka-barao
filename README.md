@@ -1,7 +1,7 @@
 <h1 align="center">Pretendo subir uns códigos e projetos aleatórios aqui 👋</h1>
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/XBaraoVermelhoX.png" alt="TryHackMe">
+  <a href="https://tryhackme.com/p/XBaraoVermelhoX" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/XBaraoVermelhoX.png" alt="TryHackMe"></a>
 </p>
 
 <div align="center">
